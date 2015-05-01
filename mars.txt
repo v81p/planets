@@ -1,4 +1,6 @@
 hello!
+<<<<<<< HEAD
 
 Thanks for the collaboration!
 It's a check...
+try again!
